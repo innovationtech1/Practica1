@@ -1,3 +1,3 @@
 # Practica1
-
-Estaes una pagina de prueba 
+ 
+   Esta es una pagina de prueba estoy aprendiendo a utilizar GIT     y Github
